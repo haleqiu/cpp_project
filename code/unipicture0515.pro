@@ -48,7 +48,7 @@ SOURCES += \
     mosaic.cpp \
     big_eye.cpp \
     change_background.cpp \
-    add_frame.cpp\
+    add_frame.cpp \
     text.cpp
 
 HEADERS += \
